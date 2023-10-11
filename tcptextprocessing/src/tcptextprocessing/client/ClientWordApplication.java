@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
-
+//hello
 /**
  * This class launches the frame and manages 
  * the connection to the server.
